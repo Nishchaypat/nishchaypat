@@ -1,6 +1,12 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
+
+
+<div align="center">
+  <a id="portfolio-link" href="https://patelnishchay.vercel.app/" target="_blank">Visit My Portfolio Website</a>
+</div>
+
 <!--[![Nishchay's GitHub stats](https://github-readme-stats.vercel.app/api?username=nishchaypat)](https://github.com/nishchaypat/github-readme-stats)
 
 **Nishchaypat/nishchaypat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
