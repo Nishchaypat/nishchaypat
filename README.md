@@ -51,9 +51,9 @@ I'm a junior Computer Science and Data Science student at Georgia State Universi
 -[Nishchay Patel](https://patelnishchay.vercel.app/)
 
 
-<!--[![Nishchay's GitHub stats](https://github-readme-stats.vercel.app/api?username=nishchaypat)](https://github.com/nishchaypat/github-readme-stats)
+[![Nishchay's GitHub stats](https://github-readme-stats.vercel.app/api?username=nishchaypat)](https://github.com/nishchaypat/github-readme-stats)
 
-**Nishchaypat/nishchaypat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--**Nishchaypat/nishchaypat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
