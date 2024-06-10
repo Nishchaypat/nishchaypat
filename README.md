@@ -48,8 +48,10 @@ I'm a junior Computer Science and Data Science student at Georgia State Universi
 
 
 **Portfolio Website**
+
 -[Nishchay Patel](https://patelnishchay.vercel.app/)
 
+**GitHub Stats**
 
 [![Nishchay's GitHub stats](https://github-readme-stats.vercel.app/api?username=nishchaypat)](https://github.com/nishchaypat/github-readme-stats)
 
