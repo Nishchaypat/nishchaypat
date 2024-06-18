@@ -51,8 +51,8 @@ I'm a junior Computer Science and Data Science student at Georgia State Universi
 **GitHub Stats**
 
 [![Nishchay's GitHub stats](https://github-readme-stats.vercel.app/api?username=nishchaypat)](https://github.com/nishchaypat/github-readme-stats)
-
-<!--**Nishchaypat/nishchaypat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nishchaypat&layout=compact)
+**Nishchaypat/nishchaypat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
