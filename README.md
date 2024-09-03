@@ -4,7 +4,10 @@
 ## Hi, I'm Nishchay Patel 👋  🌐 [Portfolio Website](https://patelnishchay.vercel.app/)
 
 ### 🎓 Education
-I'm a junior Computer Science and Data Science student at Georgia State University, with a GPA of 3.92/4.00. I expect to graduate in December 2025. My coursework and certifications include:
+I'm a junior Computer Science and Data Science student at Georgia State University, with a GPA of 3.92/4.00. I expect to graduate in December 2025. 
+
+
+### My coursework and certifications include:
 
 - **Software Engineering**
 - **Machine Learning**
@@ -40,7 +43,7 @@ I'm a junior Computer Science and Data Science student at Georgia State Universi
 ![LangChain](https://img.shields.io/badge/-LangChain-FFD700?style=flat&logo=langchain&logoColor=black)
 
 
-## 🛠️ Experience
+### 🛠️ Experience
 
 <div style="display: flex; flex-direction: column; gap: 16px;">
 
@@ -66,16 +69,16 @@ I'm a junior Computer Science and Data Science student at Georgia State Universi
 
 
 ### 👨‍💻 Projects
-- **Career Wide** (Python, Django, AWS, Google Cloud) | January 2024 – Present  
+- **Career Wide**
   - AI-powered job-hunting platform providing resume insights, improving job seeker success by 28%.
 
-- **Home Swap** (AWS, React, Node.js, MongoDB) | June 2024 – Present  
+- **Home Swap** 
   - Secure home exchange platform with advanced filtering, reducing query response times by 33%.
 
-- **Prediction on Point** (Python, Swift) | October 2023  
+- **Prediction on Point**
   - Predicts Premier League game winners with 79% precision using SVM model.
 
-- **Movie Quote Search** (Python, OpenAI API) | June 2023 – July 2023  
+- **Movie Quote Search**
   - Semantic search platform for movie quotes with 87% accuracy.
 
 
@@ -85,6 +88,5 @@ I'm a junior Computer Science and Data Science student at Georgia State Universi
 - **Member**: Badminton Club | January 2022 - Present
 
 
-### Stats
-
+### 📊 GitHub Stats
 [![Nishchay's GitHub stats](https://github-readme-stats.vercel.app/api?username=nishchaypat&show_icons=true&theme=radical)](https://github.com/nishchaypat/github-readme-stats)
