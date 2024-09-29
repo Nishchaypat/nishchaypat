@@ -1,6 +1,4 @@
 
-![Rotating Badges](https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif)
-
 ## Hi, I'm Nishchay Patel 👋  🌐 [Portfolio Website](https://patelnishchay.vercel.app/)
 
 ### 🎓 Education
