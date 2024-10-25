@@ -2,7 +2,7 @@
 ## Hi, I'm Nishchay Patel 👋  🌐 [Portfolio Website](https://patelnishchay.vercel.app/)
 
 ### 🎓 Education
-I'm a junior Computer Science and Data Science student at Georgia State University, with a GPA of 3.92/4.00. I expect to graduate in December 2025. 
+I'm a junior Computer Science and Data Science student at Georgia State University, with a GPA of 3.92/4.00. 
 
 
 ### My coursework and certifications include:
