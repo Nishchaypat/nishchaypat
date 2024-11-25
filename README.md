@@ -1,90 +1,149 @@
+# Hi, I'm Nishchay Patel 👋
 
-## Hi, I'm Nishchay Patel 👋  🌐 [Portfolio Website](https://patelnishchay.vercel.app/)
+Welcome to my GitHub! I'm a passionate Computer Science and Data Science student at Georgia State University with a strong focus on AI, machine learning, and software engineering. I specialize in developing AI-driven solutions and integrating modern technologies to solve complex problems.
 
-### 🎓 Education
-I'm a junior Computer Science and Data Science student at Georgia State University, with a GPA of 3.92/4.00. 
+📬 [Email me](mailto:nishchay22.03.2003@gmail.com) | 📞 404-353-7022  
+🌐 [Portfolio Website](https://patelnishchay.vercel.app/)  
+🔗 [LinkedIn](https://www.linkedin.com/in/nishchay-pat/) | [GitHub](https://github.com/Nishchaypat)
+
+---
+
+## 🎓 Education
+
+**Georgia State University**, Atlanta, GA  
+**Bachelor of Science in Computer Science, Certification in Data Science** (May 2025)  
+**GPA**: 3.92 | **President’s List** (5 semesters)  
+
+### Relevant Coursework:
+- Software Engineering
+- Machine Learning
+- Database Systems
+- Deep Learning
+
+### Certifications:
+- Amazon Web Services Specialization
+- Databricks Engineering
+- NASA ATX
+- CodePath (3 certifications)
+
+---
+
+## 🛠️ Skills & Technologies
+
+### **Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-1572B6?style=for-the-badge&logo=sql&logoColor=white)  
+![NoSQL](https://img.shields.io/badge/NoSQL-005555?style=for-the-badge&logo=nosql&logoColor=white)  
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+
+### **Frameworks**  
+![Django](https://img.shields.io/badge/Django-092D44?style=for-the-badge&logo=django&logoColor=white)  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
+![Lang-chain](https://img.shields.io/badge/Lang%20chain-000000?style=for-the-badge&logo=langchain&logoColor=white)  
+![Scrum](https://img.shields.io/badge/Scrum-005F8D?style=for-the-badge&logo=scrum&logoColor=white)  
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)  
+![BERT](https://img.shields.io/badge/BERT-FF0000?style=for-the-badge&logo=bert&logoColor=white)
+
+### **Tools**  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)  
+![REST API](https://img.shields.io/badge/REST%20API-25D366?style=for-the-badge&logo=rest&logoColor=white)  
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)  
+![Generative AI](https://img.shields.io/badge/Generative%20AI-FF0000?style=for-the-badge&logo=ai&logoColor=white)  
+![NLP](https://img.shields.io/badge/NLP-3B3B6A?style=for-the-badge&logo=nltk&logoColor=white)  
+![LLM](https://img.shields.io/badge/LLM-000000?style=for-the-badge&logo=openai&logoColor=white)  
+![Librosa](https://img.shields.io/badge/Librosa-CC6666?style=for-the-badge&logo=python&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![IBM Watson](https://img.shields.io/badge/IBM%20Watson-0068A5?style=for-the-badge&logo=ibm&logoColor=white)
+
+---
+
+## 🧑‍💻 Experience
+
+### **AI Software Engineering Intern**  
+**Resilience, Inc.** | Remote, USA  
+**July 2024 – October 2024**  
+- Spearheaded a multimodal emotion recognition system combining audio features and words with neural networks and NLP.  
+- Improved CNN model performance by 16% through hyperparameter tuning with Bayesian Optimization and transformer encoder networks.  
+- Optimized audio preprocessing techniques, increasing data efficiency by 25%.
+
+### **Software Engineering Intern**  
+**Hawkeye Hotels & Management** | Remote, USA  
+**May 2024 – July 2024**  
+- Developed a generative AI model to automate hotel review generation, reducing processing time by 48%.  
+- Created scalable cloud infrastructure on AWS, increasing review completion rate by 60%.  
+- Reduced guest review time from 1-3 minutes to under 30 seconds.
+
+### **Data Scientist**  
+**Evidence-Based Cybersecurity Research Group, GSU** | Atlanta, GA  
+**September 2023 – May 2024**  
+- Engineered data cleaning and machine learning models to achieve 90% data precision for industry clients.  
+- Developed linear regression models to forecast trends, achieving 86% prediction accuracy.  
+- Improved data analytics processes, reducing analysis time by 40% and enhancing research quality by 30%.
+
+---
+
+## 🚀 Projects
+
+### **Career Wide**  
+**Founder** | [Python, Django, AWS, Google Cloud, Gemini Generative AI]  
+**January 2024 – Present**  
+- AI-driven platform designed to simplify the recruitment process for students and recruiters, increasing job seeker visibility by 28%.  
+- Provides resume insights and automated suggestions for job seekers.  
+- Advanced filters and an AI chatbot streamline recruiter searches, saving time and resources.
+
+### **Stock Track**  
+[Python, TensorFlow, SQL, React]  
+**September 2024 – October 2024**  
+- Developed a stock prediction application using LSTM, CNN, and sentiment analysis, achieving 82% prediction accuracy.  
+- Integrated personalized user profiles to provide tailored stock forecasts and enhance user engagement.
+
+### **Law Chat Bot**  
+[Python, Llama, SQL]  
+**September 2024 – October 2024**  
+- Engineered a legal chatbot using Cosine Similarity and Llama 3.0, improving query response accuracy to 87%.  
+- Created a law database that reduced query processing time by 10%.
+
+### **Movie Quote Search**  
+[Python, OpenAI API, HTML, CSS, JavaScript]  
+**June 2023 – July 2023**  
+- Built a semantic search platform using OpenAI embeddings to improve quote search accuracy to 87%.  
+- Eliminated manual searching, streamlining the process for users.
+
+---
+
+## 🌍 Leadership & Affiliations
+
+- **Treasurer** – Association for Computing Machinery | June 2024 – Present  
+- **Member** – Badminton Club | January 2022 – Present  
+- **Volunteer** – Dream Foundation | August 2022 – June 2024  
+- **Hobbies** – Open-Source Contribution, Basketball, Soccer, Badminton
+
+---
+
+## 📊 GitHub Stats
+
+![Nishchay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nishchaypat&show_icons=true&count_private=true&hide=prs&theme=radical)
+
+---
 
 
-### My coursework and certifications include:
+## 📫 Get in Touch
 
-- **Software Engineering**
-- **Machine Learning**
-- **Database Systems**
-- **Data Science**
-- **Amazon Web Services Certification**
-- **Databricks Certification**
-- **GSU - President’s List (6)**
-- **NASA ATX**
+Feel free to reach out to me via the following platforms:  
+- [LinkedIn](https://www.linkedin.com/in/nishchay-pat/)  
+- [GitHub](https://github.com/Nishchaypat)  
+- Email: [nishchay22.03.2003@gmail.com](mailto:nishchay22.03.2003@gmail.com)
 
-### 🛠️ Skills
-**Languages**  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+---
 
-
-**Frameworks & Tools**  
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Microsoft Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![LangChain](https://img.shields.io/badge/-LangChain-FFD700?style=flat&logo=langchain&logoColor=black)
-
-
-### 🛠️ Experience
-
-<div style="display: flex; flex-direction: column; gap: 16px;">
-
-  <div style="background-color: #f9d423; padding: 10px; border-radius: 8px;">
-    <h3 style="color: #333; font-weight: bold;">
-      AI Software Engineering Intern - Resilience, Inc.
-    </h3>
-  </div>
-
-  <div style="background-color: #fc466b; padding: 10px; border-radius: 8px;">
-    <h3 style="color: #fff; font-weight: bold;">
-      Software Engineering Intern - Hawkeye Hotels
-    </h3>
-  </div>
-
-  <div style="background-color: #3a1c71; padding: 10px; border-radius: 8px;">
-    <h3 style="color: #fff; font-weight: bold;">
-      Data Scientist - Evidence Based Cybersecurity Research Group, GSU
-    </h3>
-  </div>
-
-</div>
-
-
-### 👨‍💻 Projects
-- **Career Wide**
-  - AI-powered job-hunting platform providing resume insights, improving job seeker success by 28%.
-
-- **Home Swap** 
-  - Secure home exchange platform with advanced filtering, reducing query response times by 33%.
-
-- **Prediction on Point**
-  - Predicts Premier League game winners with 79% precision using SVM model.
-
-- **Movie Quote Search**
-  - Semantic search platform for movie quotes with 87% accuracy.
-
-
-### 👥 Leadership & Affiliations
-- **Treasurer**: Association for Computing Machinery | June 2024 - Present
-- **Volunteer**: Dream Foundation | August 2022 - Present
-- **Member**: Badminton Club | January 2022 - Present
-
-
-### 📊 GitHub Stats
-[![Nishchay's GitHub stats](https://github-readme-stats.vercel.app/api?username=nishchaypat&show_icons=true&theme=radical)](https://github.com/nishchaypat/github-readme-stats)
+#### Thank you for visiting my profile! Feel free to explore my repositories and projects. 🌟
