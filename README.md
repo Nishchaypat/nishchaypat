@@ -42,28 +42,28 @@ Welcome to my GitHub! I'm a passionate Computer Science and Data Science student
 
 ## 🧑‍💻 Experience
 
+## 🧑‍💻 Experience
+
 ### **AI Software Engineering Intern**  
-**Resilience, Inc.** | Remote, USA  
-**July 2024 – October 2024**  
-- Spearheaded a multimodal emotion recognition system combining audio features and words with neural networks and NLP.  
-- Improved CNN model performance by 16% through hyperparameter tuning with Bayesian Optimization and transformer encoder networks.  
-- Optimized audio preprocessing techniques, increasing data efficiency by 25%.
+**Resilience, Inc.** 
+- Developed multimodal emotion recognition using **neural networks** and **NLP** for audio and text data.
+- Enhanced **CNN** performance through **Bayesian Optimization** and transformer-based encoders.
+- Optimized **audio preprocessing** techniques for better data efficiency.
 
 ### **Software Engineering Intern**  
-**Hawkeye Hotels & Management** | Remote, USA  
-**May 2024 – July 2024**  
-- Developed a generative AI model to automate hotel review generation, reducing processing time by 48%.  
-- Created scalable cloud infrastructure on AWS, increasing review completion rate by 60%.  
-- Reduced guest review time from 1-3 minutes to under 30 seconds.
+**Hawkeye Hotels & Management** 
+- Built **generative AI** models for automating hotel review generation, using **AWS** for cloud infrastructure.
+- Improved system scalability and reduced processing time, implementing **cloud-based solutions**.
+- Integrated AI for faster data processing, improving **efficiency** by automating repetitive tasks.
 
 ### **Data Scientist**  
-**Evidence-Based Cybersecurity Research Group, GSU** | Atlanta, GA  
-**September 2023 – May 2024**  
-- Engineered data cleaning and machine learning models to achieve 90% data precision for industry clients.  
-- Developed linear regression models to forecast trends, achieving 86% prediction accuracy.  
-- Improved data analytics processes, reducing analysis time by 40% and enhancing research quality by 30%.
+**Evidence-Based Cybersecurity Research Group, GSU**
+- Built **machine learning models** for data cleaning and precision improvement.
+- Developed **linear regression models** and enhanced **data analytics** processes for client solutions.
+- Reduced analysis time by optimizing workflows with **Python** and **ML** libraries.
 
 ---
+
 
 ## 🚀 Projects
 
