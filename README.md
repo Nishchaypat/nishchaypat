@@ -66,29 +66,25 @@ Welcome to my GitHub! I'm a passionate Computer Science and Data Science student
 ## 🚀 Projects
 
 ### **Career Wide**  
-**Founder** | [Python, Django, AWS, Google Cloud, Gemini Generative AI]  
-**January 2024 – Present**  
-- AI-driven platform designed to simplify the recruitment process for students and recruiters, increasing job seeker visibility by 28%.  
-- Provides resume insights and automated suggestions for job seekers.  
-- Advanced filters and an AI chatbot streamline recruiter searches, saving time and resources.
+**Founder** | *Jan 2024 – Present*  
+- Developed an **AI-driven recruitment platform** using **Python**, **Django**, **AWS**, and **Google Cloud**.
+- Integrated **Gemini Generative AI** for automated resume insights and suggestions.  
+- Built advanced **filters** and an **AI chatbot** for recruiter searches, improving efficiency.
 
 ### **Stock Track**  
-[Python, TensorFlow, SQL, React]  
-**September 2024 – October 2024**  
-- Developed a stock prediction application using LSTM, CNN, and sentiment analysis, achieving 82% prediction accuracy.  
-- Integrated personalized user profiles to provide tailored stock forecasts and enhance user engagement.
+*Sept – Oct 2024*  
+- Built a **stock prediction app** with **LSTM**, **CNN**, and **sentiment analysis** using **Python** and **TensorFlow**.
+- Implemented **personalized user profiles** for tailored predictions, enhancing user engagement.
 
 ### **Law Chat Bot**  
-[Python, Llama, SQL]  
-**September 2024 – October 2024**  
-- Engineered a legal chatbot using Cosine Similarity and Llama 3.0, improving query response accuracy to 87%.  
-- Created a law database that reduced query processing time by 10%.
+*Sept – Oct 2024*  
+- Developed a **legal chatbot** using **Cosine Similarity** and **Llama 3.0** with **Python** and **SQL**.
+- Built a **law database** that reduced query processing time by 10%.
 
 ### **Movie Quote Search**  
-[Python, OpenAI API, HTML, CSS, JavaScript]  
-**June 2023 – July 2023**  
-- Built a semantic search platform using OpenAI embeddings to improve quote search accuracy to 87%.  
-- Eliminated manual searching, streamlining the process for users.
+*June – July 2023*  
+- Created a **semantic search platform** using **OpenAI API** and **Python**, improving quote search accuracy.
+- Eliminated manual searching with **embeddings** to streamline the user experience.
 
 ---
 
