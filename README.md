@@ -31,41 +31,14 @@ Welcome to my GitHub! I'm a passionate Computer Science and Data Science student
 ## 🛠️ Skills & Technologies
 
 ### **Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-1572B6?style=for-the-badge&logo=sql&logoColor=white)  
-![NoSQL](https://img.shields.io/badge/NoSQL-005555?style=for-the-badge&logo=nosql&logoColor=white)  
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-1572B6?style=for-the-badge&logo=sql&logoColor=white) ![NoSQL](https://img.shields.io/badge/NoSQL-005555?style=for-the-badge&logo=nosql&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 
 ### **Frameworks**  
-![Django](https://img.shields.io/badge/Django-092D44?style=for-the-badge&logo=django&logoColor=white)  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
-![Lang-chain](https://img.shields.io/badge/Lang%20chain-000000?style=for-the-badge&logo=langchain&logoColor=white)  
-![Scrum](https://img.shields.io/badge/Scrum-005F8D?style=for-the-badge&logo=scrum&logoColor=white)  
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)  
-![BERT](https://img.shields.io/badge/BERT-FF0000?style=for-the-badge&logo=bert&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092D44?style=for-the-badge&logo=django&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![Lang-chain](https://img.shields.io/badge/Lang%20chain-000000?style=for-the-badge&logo=langchain&logoColor=white) ![Scrum](https://img.shields.io/badge/Scrum-005F8D?style=for-the-badge&logo=scrum&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white) ![BERT](https://img.shields.io/badge/BERT-FF0000?style=for-the-badge&logo=bert&logoColor=white)
 
 ### **Tools**  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)  
-![REST API](https://img.shields.io/badge/REST%20API-25D366?style=for-the-badge&logo=rest&logoColor=white)  
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
-![Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)  
-![Generative AI](https://img.shields.io/badge/Generative%20AI-FF0000?style=for-the-badge&logo=ai&logoColor=white)  
-![NLP](https://img.shields.io/badge/NLP-3B3B6A?style=for-the-badge&logo=nltk&logoColor=white)  
-![LLM](https://img.shields.io/badge/LLM-000000?style=for-the-badge&logo=openai&logoColor=white)  
-![Librosa](https://img.shields.io/badge/Librosa-CC6666?style=for-the-badge&logo=python&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![IBM Watson](https://img.shields.io/badge/IBM%20Watson-0068A5?style=for-the-badge&logo=ibm&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) ![REST API](https://img.shields.io/badge/REST%20API-25D366?style=for-the-badge&logo=rest&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![Generative AI](https://img.shields.io/badge/Generative%20AI-FF0000?style=for-the-badge&logo=ai&logoColor=white) ![NLP](https://img.shields.io/badge/NLP-3B3B6A?style=for-the-badge&logo=nltk&logoColor=white) ![LLM](https://img.shields.io/badge/LLM-000000?style=for-the-badge&logo=openai&logoColor=white) ![Librosa](https://img.shields.io/badge/Librosa-CC6666?style=for-the-badge&logo=python&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![IBM Watson](https://img.shields.io/badge/IBM%20Watson-0068A5?style=for-the-badge&logo=ibm&logoColor=white)
 
----
 
 ## 🧑‍💻 Experience
 
