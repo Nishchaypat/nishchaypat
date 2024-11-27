@@ -42,8 +42,6 @@ Welcome to my GitHub! I'm a passionate Computer Science and Data Science student
 
 ## 🧑‍💻 Experience
 
-## 🧑‍💻 Experience
-
 ### **AI Software Engineering Intern**  
 **Resilience, Inc.** 
 - Developed multimodal emotion recognition using **neural networks** and **NLP** for audio and text data.
