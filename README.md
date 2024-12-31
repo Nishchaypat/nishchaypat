@@ -1,4 +1,4 @@
-# Hi, I'm Nishchay Patel 👋
+# Hi, I'm Nishchay Patel 
 
 Welcome to my GitHub! I'm a passionate Computer Science and Data Science student at Georgia State University with a strong focus on AI, machine learning, and software engineering. I specialize in developing AI-driven solutions and integrating modern technologies to solve complex problems.
 
