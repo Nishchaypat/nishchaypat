@@ -68,7 +68,7 @@
 
 ```mermaid
 mindmap
-  root((AI & ML))
+  root((AI | ML))
     LLMs
       RAG
       Fine-tuning
