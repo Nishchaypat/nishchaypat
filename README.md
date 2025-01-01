@@ -1,116 +1,121 @@
-# Hi, I'm Nishchay Patel 
+<div align="center">
 
-I'm a passionate Computer Science and Data Science student at Georgia State University with a strong focus on AI, machine learning, and software engineering. I specialize in developing AI-driven solutions and integrating modern technologies to solve complex problems.
+# Hi there, I'm Nishchay! 👋
 
-📬 [Email me](mailto:nishchay22.03.2003@gmail.com) | 📞 404-353-7022  
-🌐 [Portfolio Website](https://patelnishchay.vercel.app/)  
-🔗 [LinkedIn](https://www.linkedin.com/in/nishchay-pat/) | [GitHub](https://github.com/Nishchaypat)
+![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=500&lines=AI+%26+ML+Engineer;Full+Stack+Developer;Data+Scientist;Problem+Solver)
 
----
+[![Email](https://img.shields.io/badge/Email-nishchay22.03.2003%40gmail.com-EA4335?style=flat-square)](mailto:nishchay22.03.2003@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-patelnishchay.vercel.app-4285F4?style=flat-square)](https://patelnishchay.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-nishchay--pat-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/nishchay-pat/)
+[![GitHub](https://img.shields.io/badge/GitHub-Nishchaypat-181717?style=flat-square&logo=github)](https://github.com/Nishchaypat)
 
-## 🎓 Education
+<img src="https://github-stats-alpha.vercel.app/api?username=Nishchaypat&cc=22272e&tc=37BCF6&ic=fff&bc=0000" width="600" alt="GitHub Stats">
 
-**Georgia State University**, Atlanta, GA  
-**Bachelor of Science in Computer Science, Certification in Data Science** (May 2025)  
-**GPA**: 3.92 | **President’s List** (5 semesters)  
-
-### Relevant Coursework:
-- Software Engineering
-- Machine Learning
-- Database Systems
-- Deep Learning
-
-### Certifications:
-- Amazon Web Services Specialization
-- Databricks Engineering
-- NASA ATX
-- CodePath (3 certifications)
+</div>
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🎓 Education & Achievements
 
-### **Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-1572B6?style=for-the-badge&logo=sql&logoColor=white) ![NoSQL](https://img.shields.io/badge/NoSQL-005555?style=for-the-badge&logo=nosql&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishchaypat&layout=compact&theme=react&hide_border=true" width="320" alt="Top Languages">
 
-### **Frameworks**  
-![Django](https://img.shields.io/badge/Django-092D44?style=for-the-badge&logo=django&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![Lang-chain](https://img.shields.io/badge/Lang%20chain-000000?style=for-the-badge&logo=langchain&logoColor=white) ![Scrum](https://img.shields.io/badge/Scrum-005F8D?style=for-the-badge&logo=scrum&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white) ![BERT](https://img.shields.io/badge/BERT-FF0000?style=for-the-badge&logo=bert&logoColor=white)
+- **Georgia State University**, Atlanta, GA  
+  🎯 B.S. in Computer Science & Data Science (2025)  
+  📊 GPA: 3.92/4.0  
+  🏆 President's List (5 consecutive semesters)
 
-### **Tools**  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) ![REST API](https://img.shields.io/badge/REST%20API-25D366?style=for-the-badge&logo=rest&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![Generative AI](https://img.shields.io/badge/Generative%20AI-FF0000?style=for-the-badge&logo=ai&logoColor=white) ![NLP](https://img.shields.io/badge/NLP-3B3B6A?style=for-the-badge&logo=nltk&logoColor=white) ![LLM](https://img.shields.io/badge/LLM-000000?style=for-the-badge&logo=openai&logoColor=white) ![Librosa](https://img.shields.io/badge/Librosa-CC6666?style=for-the-badge&logo=python&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![IBM Watson](https://img.shields.io/badge/IBM%20Watson-0068A5?style=for-the-badge&logo=ibm&logoColor=white)
-
-
-## 🧑‍💻 Experience
-
-### **AI Software Engineering Intern**  
-**Resilience, Inc.** 
-- Developed multimodal emotion recognition using **neural networks** and **NLP** for audio and text data.
-- Enhanced **CNN** performance through **Bayesian Optimization** and transformer-based encoders.
-- Optimized **audio preprocessing** techniques for better data efficiency.
-
-### **Software Engineering Intern**  
-**Hawkeye Hotels & Management** 
-- Built **generative AI** models for automating hotel review generation, using **AWS** for cloud infrastructure.
-- Improved system scalability and reduced processing time, implementing **cloud-based solutions**.
-- Integrated AI for faster data processing, improving **efficiency** by automating repetitive tasks.
-
-### **Data Scientist**  
-**Evidence-Based Cybersecurity Research Group, GSU**
-- Built **machine learning models** for data cleaning and precision improvement.
-- Developed **linear regression models** and enhanced **data analytics** processes for client solutions.
-- Reduced analysis time by optimizing workflows with **Python** and **ML** libraries.
+- **Certifications**:  
+  - AWS Solutions Architect Associate  
+  - Databricks Data Engineering  
+  - NASA Advanced Computing  
+  - CodePath iOS, Web Security, and ML
 
 ---
 
+## 💻 Technical Arsenal
 
-## 🚀 Projects
+<div align="center">
 
-### **Career Wide**  
-**Founder** | *Jan 2024 – Present*  
-- Developed an **AI-driven recruitment platform** using **Python**, **Django**, **AWS**, and **Google Cloud**.
-- Integrated **Gemini Generative AI** for automated resume insights and suggestions.  
-- Built advanced **filters** and an **AI chatbot** for recruiter searches, improving efficiency.
+### Core Technologies
+![Tech Stack](https://skillicons.dev/icons?i=py,js,java,react,django,nodejs,flask,tensorflow,docker&theme=dark)
 
-### **Stock Track**  
-*Sept – Oct 2024*  
-- Built a **stock prediction app** with **LSTM**, **CNN**, and **sentiment analysis** using **Python** and **TensorFlow**.
-- Implemented **personalized user profiles** for tailored predictions, enhancing user engagement.
+### Infrastructure & Tools
+![Tools](https://skillicons.dev/icons?i=aws,gcp,azure,git,mongodb,postgres,redis,kubernetes&theme=dark)
 
-### **Law Chat Bot**  
-*Sept – Oct 2024*  
-- Developed a **legal chatbot** using **Cosine Similarity** and **Llama 3.0** with **Python** and **SQL**.
-- Built a **law database** that reduced query processing time by 10%.
-
-### **Movie Quote Search**  
-*June – July 2023*  
-- Created a **semantic search platform** using **OpenAI API** and **Python**, improving quote search accuracy.
-- Eliminated manual searching with **embeddings** to streamline the user experience.
+</div>
 
 ---
 
-## 🌍 Leadership & Affiliations
+## 🚀 Flagship Projects
 
-- **Treasurer** – Association for Computing Machinery | June 2024 – Present  
-- **Member** – Badminton Club | January 2022 – Present  
-- **Volunteer** – Dream Foundation | August 2022 – June 2024  
-- **Hobbies** – Open-Source Contribution, Basketball, Soccer, Badminton
+### 🤖 [CareerWide AI](https://careerwideai.com)  
+**Revolutionizing Recruitment Through AI**  
+- 🧠 Advanced LLM integration with Gemini Pro  
+- 🔄 Real-time job matching algorithm  
+- 🎯 Achieved 95% accuracy in candidate-role matching  
+- 📊 Processes 10,000+ applications daily  
 
----
-
-## 📊 GitHub Stats
-
-![Nishchay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nishchaypat&show_icons=true&count_private=true&hide=prs&theme=radical)
-
----
-
-
-## 📫 Get in Touch
-
-Feel free to reach out to me via the following platforms:  
-- [LinkedIn](https://www.linkedin.com/in/nishchay-pat/)  
-- [GitHub](https://github.com/Nishchaypat)  
-- Email: [nishchay22.03.2003@gmail.com](mailto:nishchay22.03.2003@gmail.com)
+### 📈 [AI Stock Vision](https://aistockvision.netlify.app)  
+**Next-Gen Stock Market Intelligence**  
+- 🤖 Utilized a hybrid LSTM-CNN architecture  
+- 📊 Integrated real-time market sentiment analysis  
+- 🎯 Achieved 87% prediction accuracy  
+- 💹 Developed a portfolio optimization engine  
 
 ---
 
-#### Thank you for visiting my profile! Feel free to explore my repositories and projects. 🌟
+## 🌱 Currently Learning
+
+```mermaid
+
+mindmap
+
+  root((AI & ML))
+
+    LLMs
+
+      RAG
+
+      Fine-tuning
+
+      Prompt Engineering
+
+    MLOps
+
+      CI/CD
+
+      Model Monitoring
+
+      Deployment
+
+    Cloud
+
+      AWS
+
+      GCP
+
+      Azure
+
+```
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-nishchay22.03.2003%40gmail.com-EA4335?style=for-the-badge&logo=gmail)](mailto:nishchay22.03.2003@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-patelnishchay.vercel.app-4285F4?style=for-the-badge&logo=google-chrome)](https://patelnishchay.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-nishchay--pat-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nishchay-pat/)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Nishchaypat&color=blue&style=flat-square)
+
+</div>
+
+---
+
+<div align="center">
+
+### "Dream: Solving Asymetric Real World Problems through innovative data driven models." 💡
+
+</div>
