@@ -64,7 +64,7 @@
 
 ---
 
-## 🌱 Currently ML Learning
+## 🌱 Currently Learning (ML/ AI Focused)
 
 ```mermaid
 mindmap
