@@ -37,10 +37,10 @@
 <div align="center">
 
 ### Core Technologies
-![Tech Stack](https://skillicons.dev/icons?i=py,js,java,react,django,nodejs,flask,tensorflow,docker&theme=dark)
+![Tech Stack](https://skillicons.dev/icons?i=py,js,react,django,nodejs,flask,tensorflow,docker,java,c&theme=dark)
 
 ### Infrastructure & Tools
-![Tools](https://skillicons.dev/icons?i=aws,gcp,azure,git,mongodb,postgres,redis,kubernetes&theme=dark)
+![Tools](https://skillicons.dev/icons?i=aws,gcp,git,mongodb,postgres,kubernetes&theme=dark)
 
 </div>
 
