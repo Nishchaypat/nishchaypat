@@ -47,13 +47,11 @@
 
 ### Additional Expertise
 
-SQL, NoSQL
+SQL, NoSQL, LangChain, Scrum (Agile), ETL
  
-LangChain, Scrum (Agile), ETL
- 
-Generative AI, NLP, LLM, Audio Processing, Librosa, IBM Watson
- 
-REST API
+Generative AI, NLP, LLM, Audio Processing
+
+Librosa, IBM Watson, REST API
 
 
 </div>
