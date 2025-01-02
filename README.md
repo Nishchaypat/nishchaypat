@@ -37,10 +37,20 @@
 <div align="center">
 
 ### Core Technologies
-![Tech Stack](https://skillicons.dev/icons?i=py,js,react,django,nodejs,flask,tensorflow,docker,java,c&theme=dark)
+![Tech Stack](https://skillicons.dev/icons?i=py,html,css,js,django,react,nodejs,flask,java,c&theme=dark)
+
+### Frameworks & Libraries
+![Frameworks](https://skillicons.dev/icons?i=tensorflow,pytorch,spark,bert&theme=dark)
 
 ### Infrastructure & Tools
-![Tools](https://skillicons.dev/icons?i=aws,gcp,git,mongodb,postgres,kubernetes&theme=dark)
+![Tools](https://skillicons.dev/icons?i=aws,gcp,git,docker,mongodb,postgres,kubernetes&theme=dark)
+
+### Additional Expertise
+- **Languages**: SQL, NoSQL
+- **Frameworks**: LangChain, Scrum (Agile), ETL
+- **AI & ML**: Generative AI, NLP, LLM, Audio Processing, Librosa, IBM Watson
+- **APIs**: REST API
+
 
 </div>
 
