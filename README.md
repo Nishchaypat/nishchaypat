@@ -46,13 +46,14 @@
 ![Tools](https://skillicons.dev/icons?i=aws,gcp,git,docker,mongodb,postgres,kubernetes&theme=dark)
 
 ### Additional Expertise
- **Languages**: SQL, NoSQL
+
+SQL, NoSQL
  
- **Frameworks**: LangChain, Scrum (Agile), ETL
+LangChain, Scrum (Agile), ETL
  
- **AI & ML**: Generative AI, NLP, LLM, Audio Processing, Librosa, IBM Watson
+Generative AI, NLP, LLM, Audio Processing, Librosa, IBM Watson
  
- **APIs**: REST API
+REST API
 
 
 </div>
