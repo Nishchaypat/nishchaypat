@@ -86,6 +86,6 @@ mindmap
 
 <div align="center">
 
-### "Dream: Solving Asymetric Real World Problems through innovative data driven models." 💡
+### "Dream: Solving Asymmetric Real World Problems through innovative data driven models." 💡
 
 </div>
