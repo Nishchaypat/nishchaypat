@@ -9,7 +9,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-nishchay--pat-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/nishchay-pat/)
 [![GitHub](https://img.shields.io/badge/GitHub-Nishchaypat-181717?style=flat-square&logo=github)](https://github.com/Nishchaypat)
 
-<img src="https://github-stats-alpha.vercel.app/api?username=Nishchaypat&cc=22272e&tc=37BCF6&bc=0000" width="600" alt="GitHub Stats">
 
 </div>
 
