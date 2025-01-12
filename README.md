@@ -13,6 +13,11 @@
 
 </div>
 
+<div align="center">
+
+### "Dream: Solving Asymmetric Real World Problems through innovative data driven models." 💡
+
+</div>
 ---
 
 ## 🎓 Education & Achievements
@@ -96,8 +101,4 @@ mindmap
 
 ---
 
-<div align="center">
 
-### "Dream: Solving Asymmetric Real World Problems through innovative data driven models." 💡
-
-</div>
