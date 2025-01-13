@@ -66,17 +66,16 @@ Librosa, IBM Watson, REST API
 
 ### 🤖 CareerWide AI
 **Revolutionizing Recruitment Through AI**
-- 🧠 Advanced LLM integration with Gemini Pro
+- 🧠 Advanced AI integration with Gemini Pro
 - 🔄 Real-time job matching algorithm
 - 🎯 95% accuracy in candidate-role matching
-- 📊 10,000+ daily application processing
 
 ### 📈 AI Stock Vision
 **Next-Gen Stock Market Intelligence**
-- 🤖 Hybrid LSTM-CNN architecture
-- 📊 Real-time market sentiment analysis
+- 🤖 Hybrid LSTM-CNN architecture for market sentiment analysis
+- 📊 Real-time market data
 - 🎯 87% prediction accuracy
-- 💹 Portfolio optimization engine
+
 
 ---
 
