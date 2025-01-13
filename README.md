@@ -58,7 +58,6 @@ Generative AI, NLP, LLM, Audio Processing
 
 Librosa, IBM Watson, REST API
 
-
 </div>
 
 ---
