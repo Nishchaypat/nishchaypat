@@ -9,7 +9,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-nishchay--pat-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/nishchay-pat/)
 [![GitHub](https://img.shields.io/badge/GitHub-Nishchaypat-181717?style=flat-square&logo=github)](https://github.com/Nishchaypat)
 
-
 </div>
 </br></br></br>
 
