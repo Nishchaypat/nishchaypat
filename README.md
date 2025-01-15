@@ -87,14 +87,13 @@ mindmap
     LLMs
       RAG
       Fine-tuning
+      Pipeline
       Prompt Engineering
-    MLOps
-      CI/CD
-      Model Monitoring
-      Deployment
     Cloud
-      AWS
-      GCP
+      Azure
+    Tools
+      Langchain
+      LangFlow
 ```
 
 ---
