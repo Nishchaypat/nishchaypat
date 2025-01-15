@@ -85,7 +85,7 @@ Librosa, IBM Watson, REST API
 mindmap
   root((AI | ML))
     LLMs
-      RAG
+      Agentic RAG
       Fine-tuning
       Pipeline
       Prompt Engineering
@@ -94,6 +94,24 @@ mindmap
     Tools
       Langchain
       LangFlow
+```
+
+---
+
+---
+
+## 📓 Current Courses
+
+```mermaid
+mindmap
+  root((Spring 2025))
+    Artificial Intelligence
+      
+    Big Data
+      
+      
+    Cloud Programming
+
 ```
 
 ---
