@@ -98,7 +98,6 @@ mindmap
 
 ---
 
-
 ## 📓 Current Courses
 
 ```mermaid
