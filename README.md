@@ -62,7 +62,7 @@ Librosa, IBM Watson, REST API
 
 ---
 
-## 🚀 Flagship Projects
+## Projects
 
 ### 🤖 CareerWide AI
 **Revolutionizing Recruitment Through AI**
