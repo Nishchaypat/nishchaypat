@@ -18,7 +18,7 @@
 
 </div>
 
-</br></br></br>
+</br></br>
 
 ## 🎓 Education & Achievements
 
