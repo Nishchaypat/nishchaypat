@@ -35,7 +35,6 @@
   - NASA Advanced Computing
   - CodePath iOS, Web Security, and ML
 
----
 
 ## 💻 Technical Arsenal
 
