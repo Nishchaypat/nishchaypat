@@ -74,7 +74,6 @@ Librosa, IBM Watson, REST API
 - 📊 Real-time market data
 - 🎯 87% prediction accuracy
 
----
 
 ## 🌱 Currently Learning (ML/ AI Focused)
 
@@ -93,7 +92,6 @@ mindmap
       LangFlow
 ```
 
----
 
 ## 📓 Current Courses
 
