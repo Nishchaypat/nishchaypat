@@ -92,7 +92,6 @@ mindmap
       LangFlow
 ```
 
-
 ## 📓 Current Courses
 
 ```mermaid
