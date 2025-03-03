@@ -59,7 +59,6 @@ Librosa, IBM Watson, REST API
 
 </div>
 
-
 ## Projects
 
 ### 🤖 CareerWide AI
