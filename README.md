@@ -27,7 +27,7 @@
 - **Georgia State University**, Atlanta, GA  
   🎯 B.S. in Computer Science & Data Science (2025)  
   📊 GPA: 3.92/4.0  
-  🏆 President's List (6 consecutive semesters)
+  🏆 President's List (8 consecutive semesters)
 
 - **Certifications**  
   - AWS Solutions Architect Associate
